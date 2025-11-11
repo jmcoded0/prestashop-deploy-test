@@ -1,0 +1,7 @@
+{
+  "name": "prestashop/deploy-test",
+  "description": "PrestaShop deployment placeholder app",
+  "require": {
+    "php": ">=7.4"
+  }
+}
