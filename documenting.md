@@ -59,7 +59,7 @@ https://github.com/jmcoded0/prestashop-deploy-test
 
 
 - **Repository structure** (Dockerfile, configs)  
-![Repo Structure](screenshots/repo_structure.png)
+![Repo Structure]<img width="960" height="505" alt="image" src="https://github.com/user-attachments/assets/63ac3d06-6db9-4285-9f39-6ce6ee8fb2f0" />
 
 ---
 
